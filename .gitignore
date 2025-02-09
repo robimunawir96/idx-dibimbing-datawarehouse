@@ -1,0 +1,5 @@
+dbt/dbt-bigquery/creds/service_account.json
+.idx/.data
+.venv
+.vscode
+local
